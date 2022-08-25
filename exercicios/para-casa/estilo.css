@@ -1,0 +1,19 @@
+.tudo{font-family: Arial;
+    
+}
+
+.banner {height:100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+    display: flex;
+    width: 100%;
+
+};
+
+h1,.body {color: darkred;} 
+.introdução{ height: 35%;
+text-align:left;
+;}
+.criança{float: right;
+    float: inline-start;}
